@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @SaadZaheerKhan<br>✨ My expertise is in Web Development<br>🌱 I’m currently pursuing a Bachelor's in Computer Science
+👋 Hi, I’m @SaadZaheerKhan<br>✨ My expertise is in Web Development<br>🌱 I’m a Graduate of Bachelor's in Computer Science
 
 
 ## 🌐 Socials:
